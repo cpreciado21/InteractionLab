@@ -1,4 +1,8 @@
 # InteractionLab
+<<<<<<< HEAD
+# IntrotoCPlusPlus
+# IntrotoCPlusPlus
+# IntrotoJava
 =======
 
 These are all projects done for my Interaction Lab course in Shanghai. Nearly all the programs utilize an Arduino, Processing, and sensors. 
@@ -9,3 +13,6 @@ The one project that showcases everything learned is the Harry Potter Final Proj
 Link to the video of it working is here: https://youtu.be/l4Qc__OJ7_k
 
 Some of it was created or based on sample code provided in the course or in libraries from Processing and Arduino.
+
+>>>>>>> ab030937cd0766abe9edbd44270c4a4dfbf9aa51
+# IntrotoJava
